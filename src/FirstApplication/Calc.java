@@ -18,5 +18,6 @@ public class Calc {
     super();
     c = a * b;
     System.out.println("Product of a and b is:"+c);
+    System.out.println("test code");
     }
 }
